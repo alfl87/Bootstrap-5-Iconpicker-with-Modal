@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-5-iconpicker-with-modal",
+  "version": "1.0.0",
+  "description": "Ein Dropdown-Menü mit einer Suchfunktion, das die Auswahlmöglichkeiten aus einer JSON-Datei lädt und in einem Bootstrap-Modal anzeigt. Die Anzahl der Icons passt sich dynamisch an die Größe des Modals an.",
+  "main": "src/js/iconpicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfl87/Bootstrap-5-Iconpicker-with-Modal.git"
+  },
+  "keywords": [
+    "bootstrap;",
+    "iconpicker"
+  ],
+  "author": "F-I-S.ch",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alfl87/Bootstrap-5-Iconpicker-with-Modal/issues"
+  },
+  "homepage": "https://github.com/alfl87/Bootstrap-5-Iconpicker-with-Modal#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
