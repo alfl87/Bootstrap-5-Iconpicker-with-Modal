@@ -1,8 +1,7 @@
 # Bootstrap 5 Iconpicker with Modal
+## Easy to Use
 
 ## [DEMO ->](https://f-i-s.ch/fis_tools/Bootstrap-5-Iconpicker-with-Modal/example.html)
-
-## Easy to Use
 
 Ein Dropdown-Menü mit einer Suchfunktion, das die Auswahlmöglichkeiten aus einer JSON-Datei lädt und in einem Bootstrap-Modal anzeigt. Die Anzahl der Icons passt sich dynamisch an die Größe des Modals an.
 
@@ -15,7 +14,6 @@ Ein Dropdown-Menü mit einer Suchfunktion, das die Auswahlmöglichkeiten aus ein
 ✅ Icons werden aus einer JSON-Datei geladen
 ✅ Fixiertes Suchfeld im Modal
 
-## Installation
 
 1. **Code klonen**
    ```bash
